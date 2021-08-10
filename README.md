@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/Power_BI-FCC624?style=for-the-badge&logo=PowerBI&logoColor=black">
     <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
     <img src="https://img.shields.io/badge/Tableau-%23FF6F00.svg?style=for-the-badge&logo=Tableau&logoColor=white">
-    <img src="https://img.shields.io/badge/Jupyter-%23FF0000.svg?style=for-the-badge&logo=jupyter&logoColor=white">
+    <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
     <img src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">    
 </p>
  </div>
