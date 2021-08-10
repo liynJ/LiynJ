@@ -38,4 +38,5 @@
  <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/leenjankieh-0328b1101/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="mailto:leen.jank@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://www.upwork.com/o/profiles/users/~01c2b29824ee677d20/"><img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
