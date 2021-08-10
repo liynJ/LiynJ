@@ -1,22 +1,15 @@
-### Hi there, I'm leen 👋
-
-<h3>Welcome to my page!</h3>
-<p align="center">I am an aspiring <em><b>data analyst</b></em> currently residing in <b>Kuwait</b> (open for hiring).</p>
-
 <!--
 **liynJ/LiynJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-
-
-- ⚡ Fun fact: ...
 -->
+
+<h1 align="center">👋</h1>
+
+<samp align="center">I am an aspiring <em><b>data analyst</b></em> currently residing in <b>Kuwait</b> (open for hiring).</samp>
+
 
 <hr>
 <div>
-<h2 align="center">🌱 Currently learning</h2>
+<h2 align="center">Currently learning 🌱</h2>
 </div>
   <h4 align="center">everything🤷‍?</h3>
 <hr>
@@ -39,9 +32,9 @@ Here are some ideas to get you started:
  
  <hr>
  <div>
- <h2 align="center">📫 How to reach me</h2>
+ <h2 align="center">How to reach me 📫</h2>
  </div>
  <p align="center">
-  <a target="_blank"href="https://www.linkedin.com/in/leenjankieh/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-    badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://www.linkedin.com/in/leenjankieh-0328b1101/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="mailto:leen.jank@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
