@@ -4,7 +4,7 @@
 
 <h1 align="center">👋</h1>
 
-<samp align="center">I am an aspiring <em><b>data analyst</b></em> currently residing in <b>Kuwait</b></samp>
+<samp align="center"><em><b>data analyst</b></em> currently residing in <b>Kuwait</b></samp>
 
 
 <hr>
