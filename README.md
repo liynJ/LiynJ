@@ -2,7 +2,7 @@
 **liynJ/LiynJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<h1 align="center">👋</h1>
+<h1 align="center">👩‍💻</h1>
 
 <samp align="center"><em><b>data analyst</b></em> currently residing in <b>Kuwait</b></samp>
 
