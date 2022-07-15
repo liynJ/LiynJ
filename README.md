@@ -8,10 +8,12 @@
 
 
 <hr>
+<!--
 <div>
 <h2 align="center">Currently learning 🌱</h2>
 </div>
   <h4 align="center"><img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"></h3>
+-->
 <hr>
 <div>
 <h2 align="center"> Skills 💻</h2>
