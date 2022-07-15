@@ -36,7 +36,7 @@
  
  <hr>
  <div>
- <h2 align="center">How to reach me 📫</h2>
+ <h2 align="center">Contact 📫</h2>
  </div>
  <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/leenjankieh/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
