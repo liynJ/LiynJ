@@ -4,7 +4,7 @@
 
 <h1 align="center">👩‍💻</h1>
 
-<samp align="center"><em><b>data analyst</b></em> currently residing in <b>Kuwait</b></samp>
+<samp align="center">In data we trust.</samp>
 
 <!--
 <hr>
