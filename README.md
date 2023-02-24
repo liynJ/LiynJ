@@ -4,7 +4,7 @@
 
 <h1 align="center">👩‍💻</h1>
 
-<samp align="center">In data we trust.</samp>
+<samp align="center">"If you torture the data long enough, it will confess to anything."</samp>
 
 <!--
 <hr>
